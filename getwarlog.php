@@ -5,10 +5,10 @@
 	$db  = new SQLite3('db.sqlite');
 
 	// Definieer headers
-    $key = "Authorization: Bearer: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjRjYjQzNDVlLWY1ZmUtNDZmMi04ZWI5LTBiNDc2YWM4ODU2MyIsImlhdCI6MTUzMjQyMjkwOSwic3ViIjoiZGV2ZWxvcGVyL2FkMWUyMzhhLWM4NTQtZWE0My0wMTY2LTMyODYwYzE1ZTQ0OSIsInNjb3BlcyI6WyJyb3lhbGUiXSwibGltaXRzIjpbeyJ0aWVyIjoiZGV2ZWxvcGVyL3NpbHZlciIsInR5cGUiOiJ0aHJvdHRsaW5nIn0seyJjaWRycyI6WyIzNC4yNTEuMTI4LjUwIl0sInR5cGUiOiJjbGllbnQifV19.C1r9iyOi7wiEG997fCIMv5ixwrRoz93AwDHyALVzWxpuBuqyJM3b2NPzA6Q4hIZelZi_LRNgd7MoztmC5RG9xg";
+    $key = "Authorization: Bearer: xxx";
 
 	// Clantag zonder #
-	$clantag = '82P2VV0';
+	$clantag = 'xxx';
 	
     // Definieer API URL
     $api_url = 'https://api.clashroyale.com/v1/clans/%23'.$clantag.'/warlog';
