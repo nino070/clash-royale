@@ -6,11 +6,11 @@
 
 	// Definieer de volgende variabelen:
 			// Clantag (zonder #)
-			$clantag = '82P2VV0';
+			$clantag = 'xxx';
 			// Clanleider (met #)
-			$clanleader = '#PRCY22L8';
+			$clanleader = '#xxx';
 			//Auth key
-			$key = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjM5NGI4ZjcyLWZkZTctNGQwMS05ZTg1LTM3YWYwOTAwMmY2ZSIsImlhdCI6MTUzNjQwODA5OSwic3ViIjoiZGV2ZWxvcGVyL2FkMWUyMzhhLWM4NTQtZWE0My0wMTY2LTMyODYwYzE1ZTQ0OSIsInNjb3BlcyI6WyJyb3lhbGUiXSwibGltaXRzIjpbeyJ0aWVyIjoiZGV2ZWxvcGVyL3NpbHZlciIsInR5cGUiOiJ0aHJvdHRsaW5nIn0seyJjaWRycyI6WyIzNC4yNDEuMTY2LjM5IiwiMzQuMjUxLjEyOC41MCJdLCJ0eXBlIjoiY2xpZW50In1dfQ.7WGBB4sw-SlGtvVAoEK8uuvNjm5HtNNJ2qC6pe-xb-uZccY3Xg1tH0w5IP3y5vd-omkIcPfPGkjT9rHCZ0LTRA';
+			$key = 'xxx';
 	
 	// Definieer headers
     $header = "Authorization: Bearer: ".$key;
