@@ -1,0 +1,96 @@
+body {
+	background-color: #EEE;
+	font-family: Sans-Serif;
+	}
+div.container {
+	background-color: white;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 10px;
+	}
+table {
+	background-color: #e6f0ff;
+	width: 100%;
+	border-spacing: 0px;
+	border-collapse: separate;
+	}
+th {
+	font-size: 13px;
+	font-weight: normal;
+	}
+
+thead {
+	background-color: #002966;
+	color: white;
+	width: 100%;
+	border-bottom: 5px solid black;
+	}
+thead th {
+	border-right: 0pt solid black;
+	padding: 7px 0px 7px 0px;
+	}
+tr.averages th {
+	background-color: #FFFFFFAA;
+	color: #002966;
+	border-bottom: 2pt solid #002966;
+	}
+
+tr.data td  {
+/* 	padding: 10px 10px 10px 5px; */
+ 	height: 40px;
+	padding: 5px 5px 0px 5px;
+	vertical-align: middle;
+	border-bottom: 1pt solid #ccc;
+	border-right: 1pt solid #ccc;
+	font-size: 13px;
+	}
+tr.data:hover {
+	background-color: #eee;
+	}
+span.rejoined {
+	padding-left: 5px;
+	font-weight: normal;
+	vertical-align: sub;
+	font-size: smaller;
+	color: red;
+	}
+	
+tr.averages th {
+	padding: 7px 5px 7px 5px;
+	}
+/* OPMAAK TABEL KOLOMMEN */
+.name {
+	width: 150px;
+	}
+.role {
+	width: 65px;
+	}
+.level {
+	width: 40px;
+
+	}
+.trophies {
+	width: 60px;
+
+	}
+.collectingday {
+	width: 75px;
+	text-align: right;
+	}
+.collected {
+	width: 75px;
+	text-align: right;
+	}
+.participate {
+	width: 50px;
+	text-align: right;
+	}
+.win {
+	width: 50px;
+	text-align: right;
+	}
+.missed {
+	width: 50px;
+	text-align: center;
+	}
+/* EINDE OPMAAK TABEL KOLOMMEN */
